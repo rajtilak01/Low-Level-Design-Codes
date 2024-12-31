@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sampleDP12/sampleDP12.iml" filepath="$PROJECT_DIR$/sampleDP12/sampleDP12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleDP12_2/sampleDP12_2.iml" filepath="$PROJECT_DIR$/sampleDP12_2/sampleDP12_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleDP12_3/sampleDP12_3.iml" filepath="$PROJECT_DIR$/sampleDP12_3/sampleDP12_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sampler DP 12.iml" filepath="$PROJECT_DIR$/.idea/sampler DP 12.iml" />
+    </modules>
+  </component>
+</project>
